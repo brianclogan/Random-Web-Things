@@ -2,14 +2,14 @@
 
 A collections of random things that I have found useful over time.
 
-- CSS
+##CSS
   - Colors
     - color-backgrounds.css
       - A giant CSS file with thousands of colors to assign to backgrounds.
     - color-text.css
       - A giant CSS file with thousands of colors to assign to text.
 
-- Javascript
+##Javascript
 	- AngularJS
 	  - helpful-filters.js
 	    - A continually growing list of helpful filters I have used.
