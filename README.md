@@ -1,6 +1,6 @@
 # Random-Web-Things
 
-A collections of random things that I have found useful over time.
+A collectionof random things that I have found useful over time.
 
 
 ##CSS
